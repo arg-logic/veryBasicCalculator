@@ -47,9 +47,9 @@ public class calculator {
 			
 			}
 		}
-
-	
+		
 		objInput.close();
+		System.exit(0);
 		
 	}
 
